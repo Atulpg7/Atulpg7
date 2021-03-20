@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Atulpg7
-- 👀 I’m interested in Android App Development and Full Stack Development
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on Android Dev Projects
+- 👋 Hi, I’m Atul Kumar pursuing BE in CSE.
+- 👀 I’m interested in Android App Development
+- 💞️ I’hve done 3 internships in Android Development
+- 🌱 I’m currently Android Developer-I intern @ Krayonnz (Vedarsy Technologies Pvt. Ltd.)
 - 📫 How to reach me atulpg7@gmail.com
 
 <!---
