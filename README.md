@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Atul Kumar, BE 3rd yr Student.
 - 👀  I’m interested in Android App Development
 - 💞️  I’hve done 3 internships in Android Development
-- 🌱  I’m currently Android Developer-I intern @ Krayonnz (Vedarsy Technologies Pvt. Ltd.)
+- 🌱  Android Developer-I intern @ Krayonnz (Vedarsy Technologies Pvt. Ltd.)
 - 📫  How to reach me atulpg7@gmail.com
 
 <!---
