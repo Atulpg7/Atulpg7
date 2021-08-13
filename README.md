@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Atul Kumar, BE 3rd yr Student.
 - 👀  Android Developer | Entrepreneur | Freelancer
-- 💞️  I’hve done 3 internships in Android Development
+- 💞️  I’hve done 4+ internships in Android Development
 - 🌱  Resume: https://drive.google.com/file/d/1Y-71-N4P1K-FmKLCpXlxmV6CnDFhub4C/view?usp=sharing
 - 📫  How to reach me atulpg7@gmail.com
 
